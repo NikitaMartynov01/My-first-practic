@@ -49,18 +49,6 @@
 Именно фанерная конструкция позволила быстро создать практичный, недорогой и эстетичный органайзер.
 </p>
 
-<h3 align="center">⬇ Скачать модели и чертежи</h3>
-
-<p align="center">
-<a href="YOUR_LINK_STEP" target="_blank">
-  <img src="https://img.shields.io/badge/📥_Скачать_STEP-blue?style=for-the-badge">
-</a>
-&nbsp;&nbsp;
-<a href="YOUR_LINK_CDR" target="_blank">
-  <img src="https://img.shields.io/badge/📘_Скачать_CDR-green?style=for-the-badge">
-</a>
-</p>
-
 
 <h3 align="center">📐 CAD-модели (2 фото)</h3>
 
@@ -77,6 +65,18 @@
   <img src="https://github.com/user-attachments/assets/51ceca89-ae9a-4be1-a116-47aa22a4f13c" width="45%">
  
 </div>
+
+<h3 align="center">⬇ Скачать модели и чертежи</h3>
+
+<p align="center">
+<a href="YOUR_LINK_STEP" target="_blank">
+  <img src="https://img.shields.io/badge/📥_Скачать_STEP-blue?style=for-the-badge">
+</a>
+&nbsp;&nbsp;
+<a href="YOUR_LINK_CDR" target="_blank">
+  <img src="https://img.shields.io/badge/📘_Скачать_CDR-green?style=for-the-badge">
+</a>
+</p>
 
 ---
 
@@ -98,18 +98,6 @@
 Такой подход делает органайзер гибким, устойчивым, удобным и максимально практичным для ежедневной работы.
 </p>
 
-<h3 align="center">⬇ Скачать модели и чертежи</h3>
-
-<p align="center">
-<a href="YOUR_LINK_STEP" target="_blank">
-  <img src="https://img.shields.io/badge/📥_Скачать_STEP-blue?style=for-the-badge">
-</a>
-&nbsp;&nbsp;
-<a href="YOUR_LINK_CDR" target="_blank">
-  <img src="https://img.shields.io/badge/📘_Скачать_CDR-green?style=for-the-badge">
-</a>
-</p>
-
 <h3 align="center">📐 CAD-модели (2 фото)</h3>
 
 <div align="center">
@@ -122,6 +110,18 @@
   <img src="https://github.com/user-attachments/assets/16f85797-2e21-412e-a28d-2a8e69271716" width="45%">
   <img src="https://github.com/user-attachments/assets/c18c7f07-d074-4498-986c-42b5abbb44f5" width="45%">
 </div>
+
+<h3 align="center">⬇ Скачать модели и чертежи</h3>
+
+<p align="center">
+<a href="YOUR_LINK_STEP" target="_blank">
+  <img src="https://img.shields.io/badge/📥_Скачать_STEP-blue?style=for-the-badge">
+</a>
+&nbsp;&nbsp;
+<a href="YOUR_LINK_CDR" target="_blank">
+  <img src="https://img.shields.io/badge/📘_Скачать_CDR-green?style=for-the-badge">
+</a>
+</p>
 
 ---
 
@@ -145,18 +145,6 @@
 Итоговая конструкция получилась удобной, прочной, расширяемой и идеально подходящей для системного хранения инструмента.
 </p>
 
-<h3 align="center">⬇ Скачать модели и чертежи</h3>
-
-<p align="center">
-<a href="YOUR_LINK_STEP" target="_blank">
-  <img src="https://img.shields.io/badge/📥_Скачать_STEP-blue?style=for-the-badge">
-</a>
-&nbsp;&nbsp;
-<a href="YOUR_LINK_CDR" target="_blank">
-  <img src="https://img.shields.io/badge/📘_Скачать_CDR-green?style=for-the-badge">
-</a>
-</p>
-
 
 <h3 align="center">📐 CAD-модель и 2D-чертёж</h3>
 
@@ -173,6 +161,17 @@
   <img src="https://github.com/user-attachments/assets/266f92e8-dcaf-4a77-8086-0e40d08ae9f7" width="45%">
 </div>
 
+<h3 align="center">⬇ Скачать модели и чертежи</h3>
+
+<p align="center">
+<a href="YOUR_LINK_STEP" target="_blank">
+  <img src="https://img.shields.io/badge/📥_Скачать_STEP-blue?style=for-the-badge">
+</a>
+&nbsp;&nbsp;
+<a href="YOUR_LINK_CDR" target="_blank">
+  <img src="https://img.shields.io/badge/📘_Скачать_CDR-green?style=for-the-badge">
+</a>
+</p>
 ---
 
 <h2 align="center">🟪 Стена для органайзеров</h2>
@@ -205,7 +204,8 @@
 
 <h2 align="center">📌 Контакты</h2>
 <p align="center">
-<b>Автор:</b> Твоё имя<br>
+<b>Научный руководитель:</b> Тавитов Азамат Георгиевич<br>
+<b>Автор:</b> Мартынов Никита<br>
 <b>Год выполнения:</b> 2025
 </p>
 
