@@ -69,11 +69,11 @@
 <h3 align="center">⬇ Скачать модели и чертежи</h3>
 
 <p align="center">
-<a href="YOUR_LINK_STEP" target="_blank">
+<a href="Сборка ОТВЕРТКИ.stp" target="_blank">
   <img src="https://img.shields.io/badge/📥_Скачать_STEP-blue?style=for-the-badge">
 </a>
 &nbsp;&nbsp;
-<a href="YOUR_LINK_CDR" target="_blank">
+<a href="ФАНЕРА ОТВЕРТКИ.cdr" target="_blank">
   <img src="https://img.shields.io/badge/📘_Скачать_CDR-green?style=for-the-badge">
 </a>
 </p>
@@ -114,12 +114,8 @@
 <h3 align="center">⬇ Скачать модели и чертежи</h3>
 
 <p align="center">
-<a href="YOUR_LINK_STEP" target="_blank">
+<a href="Сборка ПЛОСКОГУБЦЫ.stp" target="_blank">
   <img src="https://img.shields.io/badge/📥_Скачать_STEP-blue?style=for-the-badge">
-</a>
-&nbsp;&nbsp;
-<a href="YOUR_LINK_CDR" target="_blank">
-  <img src="https://img.shields.io/badge/📘_Скачать_CDR-green?style=for-the-badge">
 </a>
 </p>
 
@@ -164,11 +160,11 @@
 <h3 align="center">⬇ Скачать модели и чертежи</h3>
 
 <p align="center">
-<a href="YOUR_LINK_STEP" target="_blank">
+<a href="Сборка ШЕСТИГРАННИКИ.stp" target="_blank">
   <img src="https://img.shields.io/badge/📥_Скачать_STEP-blue?style=for-the-badge">
 </a>
 &nbsp;&nbsp;
-<a href="YOUR_LINK_CDR" target="_blank">
+<a href="2D для шестигранников.cdr" target="_blank">
   <img src="https://img.shields.io/badge/📘_Скачать_CDR-green?style=for-the-badge">
 </a>
 </p>
